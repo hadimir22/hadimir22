@@ -10,7 +10,7 @@
 ---
 
 ##### 🙋‍♂️ About me
-<p> I am a software developer from <i> Kashmir </i> I have been into coding since 2018. It was a startup idea that made me jump into this amazing field then with time I realized the power and freedom of developing anything you imagine which made me stay in this field. I have worked on Front-end development, Back-end development, Mobile App development and quite recently I have started my journey towards AI . Apart from pressing keys on my laptop I love travel and photography 👨‍💻
+<p> I am a software developer from <i> Kashmir </i> I have been into coding since 2018. It was a startup idea that made me jump into this amazing field then with time I realized the power and freedom of developing anything you imagine which made me stay in this field. I have worked on Front-end development, Back-end development, Mobile App development and quite recently I have started my journey towards AI . Apart from pressing keys on my laptop I love travel and photography 👨‍💻 🗺️ 📸
 </p>
 
 #### 📚 Education
