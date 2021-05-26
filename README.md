@@ -4,7 +4,8 @@
   <a href="http://hadi-mir.web.app/">Website</a> •
   <a href="https://stackoverflow.com/users/9920947/hadi-mir?tab=profile">Stack overflow</a> • 
   <a href="https://www.linkedin.com/in/hadi-mir/">LinkedIn</a> • 
-  <a href="https://www.kaggle.com/hadimir">Kaggle</a>   
+  <a href="https://www.kaggle.com/hadimir">Kaggle</a> • 
+  <a href='https://www.instagram.com/hadi_mir/'>Instagram </a>
 </p>
 
 ---
@@ -21,7 +22,7 @@
 ---
 
 #### 💼 Work Experience
-In past have worked as a software developer at <a href="https://graphicweave.com/">Graphic Weave</a> and <a href="https://www.goals101.ai/"> Goals 101 Data solutions </a>
+In past have worked as a software developer at <a href="https://graphicweave.com/">Graphic Weave</a> and <a href="https://www.goals101.ai/"> Goals 101 Data solutions </a>. Currently I am working as an xR/Virtualization Trainee in <a href='https://www.nokia.com/'>Nokia</a>
  
 
 ---
