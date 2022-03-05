@@ -22,7 +22,7 @@
 ---
 
 #### 💼 Work Experience
-In past have worked as a software developer at <a href="https://graphicweave.com/">Graphic Weave</a> and <a href="https://www.goals101.ai/"> Goals 101 Data solutions </a>. Currently I am working as an AI/ML thesis worker in <a href='https://www.nokia.com/'>Nokia</a>
+In past have worked as a software developer at <a href="https://graphicweave.com/">Graphic Weave</a> and <a href="https://www.goals101.ai/"> Goals 101 Data solutions </a>. After finishing my traineeship, I am working as an AI/ML thesis worker in <a href='https://www.nokia.com/'>Nokia</a>
  
 
 ---
