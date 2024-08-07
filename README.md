@@ -3,7 +3,7 @@
 <p align="center">
   <a href="http://hadi-mir.web.app/" target='_blank'>Website</a> •
   <a href="https://stackoverflow.com/users/9920947/hadi-mir?tab=profile" target='_blank'>Stack overflow</a> •
-    <a href="  https://leetcode.com/u/hadimir22/" target='_blank'>Leetcode</a> •
+  <a href="https://leetcode.com/u/hadimir22/" target='_blank'>Leetcode</a> •
   <a href="https://www.linkedin.com/in/hadi-mir/" target='_blank'>LinkedIn</a> • 
   <a href="https://www.kaggle.com/hadimir" target='_blank'>Kaggle</a> • 
   <a href='https://www.instagram.com/hadi_mir/' target='_blank'>Instagram </a>
