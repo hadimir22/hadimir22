@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="http://hadi-mir.web.app/" target='_blank'>Website</a> •
-  <a href="https://stackoverflow.com/users/9920947/hadi-mir?tab=profile" target='_blank'>Stack overflow</a> • 
+  <a href="https://stackoverflow.com/users/9920947/hadi-mir?tab=profile" target='_blank'>Stack overflow</a> •
+    <a href="  https://leetcode.com/u/hadimir22/" target='_blank'>Leetcode</a> •
   <a href="https://www.linkedin.com/in/hadi-mir/" target='_blank'>LinkedIn</a> • 
   <a href="https://www.kaggle.com/hadimir" target='_blank'>Kaggle</a> • 
   <a href='https://www.instagram.com/hadi_mir/' target='_blank'>Instagram </a>
@@ -11,18 +12,21 @@
 ---
 
 ##### 🙋‍♂️ About me
-<p> I am a software developer from <i> Kashmir </i> I have been into coding since 2018. It was a startup idea that made me jump into this amazing field then with time I realized the power and freedom of developing anything you imagine which made me stay in this field. I have worked on Front-end development, Back-end development, Mobile App development and quite recently I have started my journey towards AI . Apart from pressing keys on my laptop I love travel and photography 👨‍💻 🗺️ 📸
+<p> Hello! I'm an experienced coder with a rich educational background, beginning my coding journey in 2018. I hold a bachelor's degree in Electronics from Kashmir University and a master's degree in Computer Science with a specialization in AI from the University of Oulu, Finland. Currently, I'm pursuing an MBA in Service Design, which is enhancing my ability to develop user-centric, innovative software solutions. Apart from pressing keys on my laptop, I have a passion for travel & photography, which broadens my perspective. This unique combination of skills and experiences enables me to approach coding with a holistic, creative mindset, ensuring the development of intuitive, efficient, and impactful applications. My interdisciplinary expertise, coupled with insights gained from traveling, fosters collaboration and streamlined processes, allowing me to create comprehensive solutions that truly meet user needs.  👨‍💻 🗺️ 📸
 </p>
 
 ---
 
 #### 📚 Education
-<p> I have completed my bachelors in Electronics & Communication engineering from <a href="https://www.kashmiruniversity.net/"> <i> University of Kashmir</i> </a>. Currently I am pursuing my Masters degree in Computer Science with specilization in Artificial Intelligence from <a href="https://www.oulu.fi/university/"> <i> University of Oulu,</a> Finland. </i> </p>
+<p>  
+I hold a bachelor's degree in Electronics from <a href="https://www.kashmiruniversity.net/"> <i> University of Kashmir</i> </a>, where I built a solid foundation in hardware and embedded systems. I furthered my education with a master's degree in Computer Science specializing in Artificial Intelligence from the <a href="https://www.oulu.fi/university/"> <i> University of Oulu</a>, Finland, gaining expertise in developing intelligent, data-driven solutions. Currently, I am pursuing an MBA in Service Design from <a href="https://www.tuas.fi/en/"> <i>Turku University of Applied Sciences</a>, which is enhancing my ability to create user-centric and innovative service solutions.
+</p>
 
 ---
 
-#### 💼 Work Experience
-In past have worked as a software developer at <a href="https://graphicweave.com/">Graphic Weave</a> and <a href="https://www.goals101.ai/"> Goals 101 Data solutions </a>. After finishing my traineeship, I am working as an AI/ML thesis worker in <a href='https://www.nokia.com/'>Nokia</a>
+#### 💼 Work Experience 
+
+I have a diverse work experience that has enriched my technical skills and professional growth. I started my career as a mobile developer at <a href="https://graphicweave.com/">Graphic Weave</a> in Kashmir, where I honed my skills in app development. Following this, I worked at <a href='https://www.nokia.com/'>Nokia</a> for a year as a trainee and thesis worker, gaining invaluable industry experience and contributing to cutting-edge projects. Currently, I am working at <a href='https://www.finnair.com/fi-en'>Finnair</a> , where I continue to apply my expertise and drive innovation in the aviation industry.
  
 
 ---
