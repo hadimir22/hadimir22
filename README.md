@@ -32,8 +32,10 @@ I have a diverse work experience that has enriched my technical skills and profe
 
 #### 🧮 Stats
 
+**Github:**
 [![Hadi's github stats](https://github-readme-stats.vercel.app/api?username=hadimir22&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/hadimir22/github-readme-stats)
 
+**Stackoverflow**
 [![My Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=9920947)](https://github.com/kurt-liao/so-stats)
 
 
